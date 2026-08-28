@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2E7EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Asish+Ranjan+Sahu+👋;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Java+%7C+React+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Asish+Ranjan+Sahu+👋;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Java+%7C+React+%7C+Node.js" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asishranjansahu&color=2E7EF7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Asishranjansahu&color=EF4444&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -152,12 +152,12 @@ Full-stack developer passionate about building **scalable applications**, **AI-p
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Asishranjansahu&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asishranjansahu&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Asishranjansahu&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=EF4444&text_color=ffffff" alt="GitHub Stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asishranjansahu&theme=github_dark&hide_border=true&layout=compact&title_color=EF4444&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asishranjansahu&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asishranjansahu&theme=dark&hide_border=true&stroke=EF4444" alt="GitHub Streak" />
 </div>
 
 ---
