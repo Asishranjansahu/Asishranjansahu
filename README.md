@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0D1117&height=190&section=header&text=Asish%20Ranjan%20Sahu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=60&descSize=16" width="100%" alt="Asish Ranjan Sahu profile banner">
 </p>
