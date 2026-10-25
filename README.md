@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1800&pause=1200&color=39D353&center=true&vCenter=true&width=900&height=70&lines=ASISH+RANJAN+SAHU" alt="Asish Ranjan Sahu in green pixel-style text">
+  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=16&duration=2500&pause=800&color=D946EF&center=true&vCenter=true&width=700&height=30&lines=From+the+first+commit+to+the+production+deploy;Java+%C2%B7+Spring+Boot+%C2%B7+React;Full-Stack+Developer+%7C+Berhampur,+Odisha" alt="Typing tagline">
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer · Java · Spring Boot · React</b>
+  <a href="https://asishranjansahu.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://asishranjansahu.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/CV-16a34a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
+  <a href="https://www.linkedin.com/in/asish-ranjan-sahu-15ab1422b"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:asishranjansahu2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <a href="https://asishranjansahu.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-asishranjansahu.vercel.app-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio"></a>
-  <a href="https://asishranjansahu.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/RESUME-View-444444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
-  <a href="https://www.linkedin.com/in/asish-ranjan-sahu-15ab1422b"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:asishranjansahu2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=34&duration=1800&pause=1200&color=39D353&center=true&vCenter=true&width=900&height=70&lines=ASISH;RANJAN+SAHU" alt="ASISH in green dot-matrix text">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
     </td>
     <td width="75%" valign="middle">
       <h2>👋 About me</h2>
-      <p>I’m a computer science graduate from Odisha, India. I build full-stack applications and backend services, focusing on useful features, reliable APIs, and clear user experiences.</p>
+      <p>I’m Asish Ranjan Sahu, a computer science graduate from Odisha, India. I build full-stack applications and backend services, focusing on useful features, reliable APIs, and clear user experiences.</p>
       <ul>
         <li>💼 Virtual Intern at Infosys Springboard</li>
         <li>🎓 B.Tech in Computer Science & Engineering</li>
