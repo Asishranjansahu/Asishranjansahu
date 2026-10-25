@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="asish-dots.gif" alt="Animated green dot-matrix ASISH" width="520">
+  <img src="asish-dots.gif" alt="Animated green dot-matrix ASISH RANJAN SAHU" width="900">
 </p>
 
 ## 👋 About me
