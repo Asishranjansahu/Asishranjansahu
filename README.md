@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=900&color=39D353&center=true&vCenter=true&width=900&height=90&lines=ASISH+RANJAN+SAHU;JAVA+%7C+SPRING+BOOT;REACT+%7C+NODE.JS" alt="Animated green pixel text showing my name and technologies">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1800&pause=1200&color=39D353&center=true&vCenter=true&width=900&height=70&lines=ASISH+RANJAN+SAHU" alt="Asish Ranjan Sahu in green pixel-style text">
+</p>
+
+<p align="center">
+  <b>Full-Stack Developer · Java · Spring Boot · React</b>
 </p>
 
 <p align="center">
@@ -25,7 +29,7 @@
     </td>
     <td width="75%" valign="middle">
       <h2>👋 About me</h2>
-      <p>I’m Asish Ranjan Sahu, a computer science graduate from Odisha, India. I build full-stack applications and backend services, focusing on useful features, reliable APIs, and clear user experiences.</p>
+      <p>I’m a computer science graduate from Odisha, India. I build full-stack applications and backend services, focusing on useful features, reliable APIs, and clear user experiences.</p>
       <ul>
         <li>💼 Virtual Intern at Infosys Springboard</li>
         <li>🎓 B.Tech in Computer Science & Engineering</li>
@@ -62,7 +66,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🏫 Smart Campus Automation</h3>
-      <p>IoT automation across 200+ campus facilities, connected to a Flutter mobile app and a React dashboard.</p>
+      <p>IoT automation across campus facilities, connected to a Flutter mobile app and a React dashboard.</p>
       <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Firebase</code> <code>Flutter</code></p>
       <a href="https://github.com/Asishranjansahu/SMART-CAMPUS-AUTOMATION-SYSTEM">↗ SOURCE</a> ·
       <a href="https://smart-campus-automation-system.vercel.app/">↗ LIVE DEMO</a>
