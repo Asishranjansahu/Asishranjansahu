@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:6d1018,100:9b1026&height=200&section=header&text=Asish%20Ranjan%20Sahu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=62&descSize=16" width="100%" alt="Asish Ranjan Sahu banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:6d1018,100:9b1026&height=200&section=header&text=Asish%20Ranjan%20Sahu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Asish Ranjan Sahu banner">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot;React+%7C+Node.js;REST+APIs+%7C+WebSockets;Full-Stack+Developer" alt="Animated tech stack">
 </p>
 
 <p align="center">
@@ -12,7 +16,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Asishranjansahu?label=FOLLOWERS&style=flat&color=8b1e3f" alt="GitHub followers">
   <img src="https://img.shields.io/github/stars/Asishranjansahu?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat&color=6d28d9" alt="GitHub stars">
-  <img src="https://komarev.com/ghpvc/?username=Asishranjansahu&label=PROFILE%20VIEWS&color=8b1e3f&style=flat" alt="Profile views">
 </p>
 
 <table>
@@ -105,6 +108,16 @@
 |---|---|---|---|
 | Sep 2026–Present | Virtual Intern | Infosys Springboard | Working with a team on a Java/Spring Boot subsidy and grant platform with application scoring, duplicate checks, role-based approvals, staged payments, reports, and audit trails. |
 
+## 🎓 Education & certifications
+
+**B.Tech in Computer Science & Engineering**  
+Vignan Institute of Technology & Management · 2021–2025 · GPA: 7.74/10
+
+- AWS Cloud Practitioner · 2025
+- Java Programming Fundamentals — Infosys · 2026
+- Java Full Stack — Apna College · 2024
+- Team Tech Asish participant, TechSurge 2K26 · HackIndia, BVRIT Hyderabad · September 2026
+
 ## 🧰 Tech stack
 
 <p>
@@ -124,16 +137,6 @@
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
 </p>
-
-## 🎓 Education & certifications
-
-**B.Tech in Computer Science & Engineering**  
-Vignan Institute of Technology & Management · 2021–2025 · GPA: 7.74/10
-
-- AWS Cloud Practitioner · 2025
-- Java Programming Fundamentals — Infosys · 2026
-- Java Full Stack — Apna College · 2024
-- Team Tech Asish participant, TechSurge 2K26 · HackIndia, BVRIT Hyderabad · September 2026
 
 ## 📊 GitHub analytics
 
