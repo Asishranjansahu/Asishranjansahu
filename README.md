@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:6d1018,100:9b1026&height=180&section=header&text=Asish%20Ranjan%20Sahu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Asish Ranjan Sahu banner">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=800&color=D946EF&center=true&vCenter=true&width=800&height=40&lines=From+the+first+commit+to+the+production+deploy;Java+Spring+Boot+and+React;Full-Stack+Developer+from+Odisha" alt="Typing tagline">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=1000&color=C026D3&center=true&vCenter=true&width=800&height=40&lines=From+the+first+commit+to+the+production+deploy;Java+Spring+Boot+and+React;Full-Stack+Developer+from+Odisha" alt="Typing tagline">
 </p>
 
 <p align="center">
@@ -14,32 +10,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1800&pause=1200&color=39D353&center=true&vCenter=true&width=900&height=70&lines=ASISH;RANJAN;SAHU;ASISH+RANJAN+SAHU" alt="ASISH RANJAN SAHU">
+  <img src="https://img.shields.io/github/followers/Asishranjansahu?label=FOLLOWERS&style=flat-square&color=6d28d9" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=Asishranjansahu&label=PROFILE+VIEWS&style=flat-square&color=7c3aed" alt="Profile views">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Asishranjansahu?label=FOLLOWERS&style=flat&color=8b1e3f" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/Asishranjansahu?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat&color=6d28d9" alt="GitHub stars">
+  <img src="asish-dots.gif" alt="Animated green dot-matrix ASISH" width="520">
 </p>
 
-<table>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://github.com/Asishranjansahu.png?size=240" width="180" alt="Asish Ranjan Sahu">
-    </td>
-    <td width="75%" valign="middle">
-      <h2>👋 About me</h2>
-      <p>I’m a computer science graduate from Odisha, India. I build full-stack applications and backend services, focusing on useful features, reliable APIs, and clear user experiences.</p>
-      <ul>
-        <li>💼 Virtual Intern at Infosys Springboard</li>
-        <li>🎓 B.Tech in Computer Science & Engineering</li>
-        <li>☕ Java, Spring Boot, React, Node.js, and PostgreSQL</li>
-        <li>🧪 Interested in testing, CI/CD, WebSockets, and backend systems</li>
-        <li>📍 Berhampur, Odisha, India</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 👋 About me
+
+I’m Asish Ranjan Sahu, a computer science graduate from Odisha, India. I build full-stack applications and backend services, focusing on useful features, reliable APIs, and clear user experiences.
+
+- 💼 Virtual Intern at Infosys Springboard
+- 🎓 B.Tech in Computer Science & Engineering
+- ☕ Java, Spring Boot, React, Node.js, and PostgreSQL
+- 🧪 Interested in testing, CI/CD, WebSockets, and backend systems
+- 📍 Berhampur, Odisha, India
+- 📫 [Email me](mailto:asishranjansahu2003@gmail.com)
 
 ## 📌 Portfolio at a glance
 
@@ -66,7 +54,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🏫 Smart Campus Automation</h3>
-      <p>IoT automation across campus facilities, connected to a Flutter mobile app and a React dashboard.</p>
+      <p>IoT automation across 200+ campus facilities, connected to a Flutter mobile app and a React dashboard.</p>
       <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Firebase</code> <code>Flutter</code></p>
       <a href="https://github.com/Asishranjansahu/SMART-CAMPUS-AUTOMATION-SYSTEM">↗ SOURCE</a> ·
       <a href="https://smart-campus-automation-system.vercel.app/">↗ LIVE DEMO</a>
