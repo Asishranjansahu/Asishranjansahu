@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:6d1018,100:9b1026&height=200&section=header&text=Asish%20Ranjan%20Sahu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Asish Ranjan Sahu banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:6d1018,100:9b1026&height=180&section=header&text=Asish%20Ranjan%20Sahu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Asish Ranjan Sahu banner">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot;React+%7C+Node.js;REST+APIs+%7C+WebSockets;Full-Stack+Developer" alt="Animated tech stack">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=900&color=39D353&center=true&vCenter=true&width=900&height=90&lines=ASISH+RANJAN+SAHU;JAVA+%7C+SPRING+BOOT;REACT+%7C+NODE.JS" alt="Animated green pixel text showing my name and technologies">
 </p>
 
 <p align="center">
